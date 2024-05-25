@@ -19,6 +19,9 @@ id,email,first_name,last_name,avatar
 6,"tracey.ramos@reqres.in","Tracey","chnaged","https://reqres.in/img/faces/6-image.jpg"
 7,"gffg.com","gjj","yurrrrrr","ui","yuyj.com"
 ```
+# Expexted Behaviour
+it should add new Row with ID 7 and other fields 
 
-# error
+# error - Pipeline fails 
+below is the summary of pipeline 
 ![image](https://github.com/Trainer-AJ/adf-pipelines/assets/90054101/ad66c426-0f30-4a6f-84d8-dba94709f5cf)
