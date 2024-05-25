@@ -3,6 +3,8 @@ Initialized by Azure Data Factory!
 # Aim: 
 - Update existing SQL table from  a CSV file in blob
 
+# Pipeline name: insert
+
 # SQL Table Right Now: 
 ![image](https://github.com/Trainer-AJ/adf-pipelines/assets/90054101/2c8edb69-9cc3-43fe-8803-b6ed8087623f)
 
